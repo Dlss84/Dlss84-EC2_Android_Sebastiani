@@ -7,12 +7,20 @@
     <string name="title_app"></string>
     <string name="button_principal">Go</string>
     <string name="button_next">Next</string>
+    <string name="button_home">Home</string>
 
 
     <string name="arte">Peruvian Culinary Art</string>
     <string name="line1">Peruvian gastronomy is considered one of the best in the world.
     \n\nEach region of Peru (coast, mountains and jungle) has a great variety of ingredients and flavors.
         \n\nWhat makes Peruvian cuisine the most privileged and unique in the world.\n\n</string>
+
+    <string name="cuantos">How many dishes are there in Peru?</string>
+    <string name="linea22">Peruvian gastronomy is one of the most complex and with more typical dishes.
+        \n\nIn the book "357 lists to understand how Peruvians are" they have up to 491 typical dishes.
+        \n\nMore than 2,500 different types of soups have been registered along the entire Peruvian coast
+        and more than 250 typical desserts.</string>
+
 
     <string name="marca_peru">Marca Perú</string>
     <string name="platos">cuatro_platos</string>
