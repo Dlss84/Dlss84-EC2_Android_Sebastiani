@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PeruvianTravels</string>
+
+
+
+    <string name="title_principal">Discover the Magic</string>
+    <string name="title_app"></string>
+    <string name="button_principal">Go</string>
+    <string name="button_next">Next</string>
+
+
+    <string name="arte">Peruvian Culinary Art</string>
+    <string name="line1">Peruvian gastronomy is considered one of the best in the world.
+    \n\nEach region of Peru (coast, mountains and jungle) has a great variety of ingredients and flavors.
+        \n\nWhat makes Peruvian cuisine the most privileged and unique in the world.\n\n</string>
+
+    <string name="marca_peru">Marca Perú</string>
+    <string name="platos">cuatro_platos</string>
+    <string name="mperu">MarcaPeru</string>
+
+</resources>
